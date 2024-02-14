@@ -8,5 +8,9 @@ My modify:
     * CMAS messages can read specific files to get the message text
   * Add generate sib10 and sib12 code in function parse_sibs
  
-This supports ubuntu 18.04 and 20.04 not in 22.04
-  
+This supports Ubuntu 18.04 and 20.04 not 22.04
+
+
+
+Please follow this repo for implementation
+https://github.com/SAIRISAN123/srsRAN_4G_Public_Warning_System
