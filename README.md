@@ -7,4 +7,6 @@ My modify:
   * Add function parse_sib12
     * CMAS messages can read specific files to get the message text
   * Add generate sib10 and sib12 code in function parse_sibs
+ 
+This supports ubuntu 18.04 and 20.04 not in 22.04
   
